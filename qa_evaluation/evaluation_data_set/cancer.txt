@@ -1,0 +1,1007 @@
+1	磷状细胞癌是怎么样的?	common knowledge --> definition	
+2	囊肿是什么?	common knowledge --> definition	common knowledge --> definition
+3	恶性肿瘤一定是癌吗?是否只是上皮性的恶性肿瘤才是癌?	common knowledge --> definition	common knowledge --> other
+4	直肠腺癌与直肠癌的区别	common knowledge --> definition	common knowledge --> definition
+5	肿瘤就是癌症吗	common knowledge --> definition	common knowledge --> other
+6	乳腺增生与乳腺癌的区别	common knowledge --> definition	common knowledge --> definition
+7	多激酶 是什么？英文怎么写？	common knowledge --> definition	common knowledge --> definition
+8	什么是 引流??????????	common knowledge --> definition	common knowledge --> definition
+9	淋巴结肿大和淋巴瘤有哪些区别	common knowledge --> definition	common knowledge --> definition
+10	乳腺癌是怎么回事	common knowledge --> definition	
+11	肌红蛋白是不是别构蛋白质	common knowledge --> definition	
+12	直肠癌和内痔的具体区别	common knowledge --> definition	
+13	脑瘤是一种什么病	common knowledge --> definition	
+14	请问肛瘘是一种什麽样的病，严重吗	common knowledge --> definition	
+15	乳腺腺病瘤就是纤维瘤吗	common knowledge --> definition	
+16	什么是癌脐	common knowledge --> definition	
+17	宫颈糜烂跟宫颈癌有什么区别?在线等候!	common knowledge --> definition	
+18	结肠粘膜隆起性病变是什么意思？	common knowledge --> definition	
+19	什么是石棉癌	common knowledge --> definition	
+20	细胞内的MTX中文全名是什么？？	common knowledge --> definition	
+21	Burkitt 淋巴瘤 是霍奇金淋巴瘤还是非霍奇金淋巴瘤？谢谢	common knowledge --> definition	
+22	痔疮也可以叫肿瘤吗?	common knowledge --> definition	
+23	如何判断肿瘤良性与恶性	common knowledge --> definition	
+24	怎么区分纤维瘤和纤维肉瘤？	common knowledge --> definition	
+25	癌性腹水的准确定义是什么	common knowledge --> definition	
+26	什么是残胃癌	common knowledge --> definition	
+27	请问乳房上的纤维瘤和神经纤维瘤是不是同一种肿瘤？？？	common knowledge --> definition	
+28	什么是JJ肿瘤？	common knowledge --> definition	
+29	淋巴结肿大一定就是癌症的转移吗？	common knowledge --> definition	
+30	垂体瘤是怎么一回事?	common knowledge --> definition	
+31	低分化癌属于小细胞癌的一种吗	common knowledge --> definition	
+32	阴茎皮肤疣状癌是性病么?	common knowledge --> definition	
+33	HER2是什么	common knowledge --> definition	
+34	硬皮病是皮肤癌吗？	common knowledge --> definition	
+35	可以定性为恶性肿瘤的病都有那些	common knowledge --> definition	
+36	乳腺纤维瘤是否原位癌？？	common knowledge --> definition	
+37	医学中的照“CT”的CT是什么？	common knowledge --> definition	
+38	什么叫高分化浆液性乳头状腺癌？	common knowledge --> definition	
+39	什么是光影综合症？？？？？	common knowledge --> definition	
+40	纤维瘤是不是就是乳腺增生	common knowledge --> definition	
+41	直肠癌与直肠息肉的区别	common knowledge --> definition	
+42	膀胱癌是怎样引起的?	common knowledge --> etiology	
+43	电脑使用与癌症	common knowledge --> etiology	
+44	刚刚看新闻说染发剂有致癌物质。	common knowledge --> etiology	
+45	经常吃太烫的食物是不是容易得癌啊!	common knowledge --> etiology	
+46	有没有办法使自己得癌症?来得越早越好?我今年22岁了	common knowledge --> etiology	
+47	烟里可以减慢癌症发生速度，但不能阻止癌症发生的物质是什么？	common knowledge --> etiology	
+48	得了宫颈糜烂，如果停止性生活，还会癌变么	common knowledge --> etiology	
+49	乳腺癌的病因与症状？	common knowledge --> etiology	
+50	长了脓疮没有挤，会发生癌变吗？	common knowledge --> etiology	common knowledge --> etiology
+51	脊椎瘤是怎样形成的?	common knowledge --> etiology	common knowledge --> other
+52	过多的性生活是不是有可能造成前列腺癌症?	common knowledge --> etiology	common knowledge --> etiology
+53	什么食物容易得癌症.?	common knowledge --> etiology	common knowledge --> etiology
+54	容易导致癌症的食物或物品有哪些?	common knowledge --> etiology	common knowledge --> etiology
+55	人中痦子会癌变吗？？？	common knowledge --> etiology	common knowledge --> etiology
+56	鼻中隔偏曲（伴涕血）不做手术会演变成鼻癌吗？	common knowledge --> etiology	common knowledge --> etiology
+57	胃癌会不会传染给别人?	common knowledge --> etiology	common knowledge --> etiology
+58	妈妈乳腺重度增生会长肿瘤吗？该怎么办？我真的很需要她！	common knowledge --> etiology	common knowledge --> etiology
+59	为什么会得子宫瘤呢?是外瘤??良性的!!	common knowledge --> etiology	common knowledge --> etiology
+60	血管瘤一定是先天性的吗?	common knowledge --> etiology	common knowledge --> etiology
+61	【请专家解答】经常性地用手用力按压腹部会导致癌症吗	common knowledge --> etiology	common knowledge --> etiology
+62	我老公的爸爸是肝癌去世的，他们家也有几个亲戚也是这个病去世的，不知道会不会遗传或者隔代遗传?	common knowledge --> etiology	
+63	乳腺癌是什么样形成的?	common knowledge --> etiology	
+64	乳腺炎会变成乳腺癌么	common knowledge --> etiology	
+65	肺癌会不会传染啊！我感觉会哦	common knowledge --> etiology	
+66	感染肝癌病人血液的后果	common knowledge --> etiology	
+67	肛门为什么会长肉瘤?该怎么办啊?	common knowledge --> etiology	
+68	肠息肉是否会转癌	common knowledge --> etiology	
+69	取下巴的痔回会癌变吗	common knowledge --> etiology	
+70	请问患过骨癌的人治好了还会复发吗?	common knowledge --> etiology	
+71	爽身粉致癌科学吗？	common knowledge --> etiology	
+72	有没有可能是误诊？听说癌症与很多是误诊的	common knowledge --> etiology	
+73	导致癌物质 种类	common knowledge --> etiology	
+74	乳腺癌会遗传吗	common knowledge --> etiology	
+75	癌症会通过针头传染吗？？	common knowledge --> etiology	
+76	激光去脸上的痣会有什么后遗症吗?会病变成癌吗?	common knowledge --> etiology	
+77	切掉子宫是不是容易引发卵巢癌啊？？？	common knowledge --> etiology	
+78	癌症病人（比如腹腔癌）使用（或接触）过的物品，会不会成为癌症传染的载体？	common knowledge --> etiology	
+79	脂肪肿瘤会传染吗	common knowledge --> etiology	
+80	如果淋巴发炎有太长的时间会有癌变的机会吗??	common knowledge --> etiology	
+81	慢性咽炎会不会转为癌症？	common knowledge --> etiology	
+82	胰癌遗传吗	common knowledge --> etiology	
+83	骨癌有遗传性吗?	common knowledge --> etiology	
+84	坏血病是由什么引起的	common knowledge --> etiology	
+85	和兴白花膏会致癌？？？？？？？？？	common knowledge --> etiology	
+86	甲状腺右侧叶占位病变是由什么引起的	common knowledge --> etiology	
+87	良性肿瘤复发原因	common knowledge --> etiology	
+88	吸烟两年得了“肺癌”晚期，跟吸烟有关吗？	common knowledge --> etiology	
+89	胃癌会是月经停止不来吗	common knowledge --> etiology	
+90	为什么舌头会长瘤	common knowledge --> etiology	
+91	结肠癌症晚期病人呕吐的唾沫会传染吗	common knowledge --> etiology	
+92	一起生活人有很多人得癌症对周围的人有没有影响	common knowledge --> etiology	
+93	双乳纤维囊性乳腺病和双乳内慢性炎症能形成乳腺癌吗	common knowledge --> etiology	
+94	吸烟与膀胱癌有什么关系？？？？	common knowledge --> etiology	
+95	得癌症与人的年龄有关吗？	common knowledge --> etiology	
+96	肺癌会导致眼睛瞎吗	common knowledge --> etiology	
+97	是不是没有炎症就没有肿瘤？	common knowledge --> etiology	
+98	甲状腺肿瘤会不会转为癌症，需要手术么？	common knowledge --> etiology	
+99	癌症会辈辈留根吗？	common knowledge --> etiology	
+100	痣长多了,会癌变吗 ?癌变的几率有多大呀..	common knowledge --> etiology	
+101	胃和十二指肠球炎会不会引起胃癌?	common knowledge --> etiology	
+102	手扣掉的痣后会产生癌变么?	common knowledge --> etiology	
+103	卵巢癌是不是传染	common knowledge --> etiology	
+104	不可思议！青少年怎会生肿瘤？	common knowledge --> etiology	
+105	先天性神经纤维瘤会传染与只接触的人吗？	common knowledge --> etiology	
+106	肝癌晚期的病人，还会传染吗？	common knowledge --> etiology	
+107	宫颈糜烂会不会变宫颈癌啊？	common knowledge --> etiology	
+108	什么原因会引起淋巴癌?	common knowledge --> etiology	
+109	我眼睛 旁边有一个痣 今天我把它挑破了 会不会 癌变？？ 痣很小	common knowledge --> etiology	
+110	肝血管瘤有癌变的可能吗？	common knowledge --> etiology	
+111	谁能告诉我得癌症最快的方法	common knowledge --> etiology	
+112	食道癌会遗传吗	common knowledge --> etiology	
+113	15、16岁的少女带有钢丝的文胸会不会得乳腺癌	common knowledge --> etiology	
+114	胆囊息肉1.2厘米会癌变吗?急!!!	common knowledge --> etiology	
+115	宫颈重度糜烂！会变癌吗？	common knowledge --> etiology	
+116	肺癌遗传吗	common knowledge --> etiology	
+117	前庭大腺囊肿会癌变吗？	common knowledge --> etiology	
+118	我以前不知道溴化乙锭的毒性,跑电泳都五年了,会不会对身体有什么伤害呢?	common knowledge --> etiology	
+119	剃腋窝毛会致癌？	common knowledge --> etiology	
+120	地区多发食道贲门癌的原因	common knowledge --> etiology	
+121	肝癌会隔代遗传吗？	common knowledge --> etiology	
+122	吃饭不定时,不运动,常通宵上网已数年,会不会得癌 好怕....	common knowledge --> etiology	
+123	有十二指肠溃疡，癌变概率高吗？	common knowledge --> etiology	
+124	脂肪瘤感染后会变癌吗?	common knowledge --> etiology	
+125	淋巴瘤会导致血小板减少吗	common knowledge --> etiology	
+126	胃炎会因为慢性咽炎引发的而癌变吗？	common knowledge --> etiology	
+127	多吃蜂蜜容易得乳腺癌？	common knowledge --> etiology	
+128	哪位好新人可以提供关于癌症的一些详细资料??	common knowledge --> information seeking	
+129	请问在网上有癌症病友社区吗？	common knowledge --> information seeking	
+130	求皮肤癌图片	common knowledge --> information seeking	
+131	想了解关于肿瘤的一些知识。	common knowledge --> information seeking	
+132	如何下载健康之路 生活习惯与肿瘤	common knowledge --> information seeking	
+133	央视健康之路节目有一期是讲食道癌的?	common knowledge --> information seeking	
+134	有人知道人乳头瘤病毒吗？	common knowledge --> information seeking	
+135	癌症是开刀后才确定吗？为什么有的要开刀前化疗？	common knowledge --> other	
+136	恶性甲状腺癌严重吗？	common knowledge --> other	
+137	细胞癌变的实质和预防癌症的有效措施	common knowledge --> other	
+138	请问在胸11-骶1段的椎管内发现室管膜瘤是否会影响下肢知觉？	common knowledge --> other	
+139	肝部血管瘤要紧么?	common knowledge --> other	
+140	癌症是什么时候第一次发现的	common knowledge --> other	
+141	粉瘤问题大不大？是否会恶化	common knowledge --> other	common knowledge --> other
+142	请问什么的患者不能结婚？患有肿瘤癌或者其他癌的可以结婚么？~~	common knowledge --> other	common knowledge --> other
+143	直肠肿瘤是否分恶性和良性？	common knowledge --> other	common knowledge --> other
+144	膀胱癌引起腋下和阴下疼痛是什么原因	common knowledge --> other	common knowledge --> other
+145	甲状腺 结节 手术切下来的东西是什么样子的?	common knowledge --> other	common knowledge --> other
+146	骨结核和骨癌会不会同时得	common knowledge --> other	common knowledge --> other
+147	我头上长皮下脂肪瘤了!这奇怪吗?	common knowledge --> other	common knowledge --> other
+148	乳腺癌患者能否分娩？	common knowledge --> other	
+149	癌症是多严重的病	common knowledge --> other	
+150	癌症病人死时是什么表现？会抽搐而死吗？肺癌！	common knowledge --> other	
+151	恶性肿瘤一般都长在什么位置	common knowledge --> other	
+152	请问长肉瘤会不会很严重?	common knowledge --> other	
+153	肝血管瘤长大的很快会不会有问题啊？	common knowledge --> other	
+154	乳核变大有几种情况	common knowledge --> other	
+155	直肠癌手术后的就要一辈子用人工肛门了吗？	common knowledge --> other	
+156	请问垂体瘤会不会危害生命的	common knowledge --> other	
+157	癌症是不是可以发生在人体的所有部位	common knowledge --> other	
+158	乳房纤维瘤有恶性的吗	common knowledge --> other	
+159	瘤会和肚子里的孩子一起大吗？	common knowledge --> other	
+160	怎样更好能控制肿瘤的生长	common knowledge --> other	
+161	脑囊虫会有生命危险吗？	common knowledge --> other	
+162	骨质增生有危险吗	common knowledge --> other	
+163	人的失血量超过多少，有生命危险	common knowledge --> other	
+164	临床病史包括哪些呢？	common knowledge --> other	
+165	恶性纤维组织细胞瘤能康复吗	common knowledge --> other	
+166	鼻咽癌和鼻窦癌的肿瘤都不是长在鼻子里面的吗	common knowledge --> other	
+167	膀胱肿瘤治疗的早会死吗	common knowledge --> other	
+168	晚期肺癌有好的希望吗?不治会出现好的奇迹吗?	common knowledge --> other	
+169	卵巢肿瘤都有哪些分类呢?	common knowledge --> other	
+170	人没有胃还能活吗？	common knowledge --> other	
+171	请医生谈谈，处女会得子宫癌吗？除了去医院检查外，自己还有什么办法检测吗？	common knowledge --> prevalence	
+172	22岁得胃癌晚期的几率高吗？	common knowledge --> prevalence	
+173	19岁的女~得乳腺癌机率大吗？	common knowledge --> prevalence	
+174	75岁以上老人有没有患癌症的可能？75岁患癌症要不要紧呢？	common knowledge --> prevalence	common knowledge --> other
+175	23岁的女孩子会有脑瘤吗？	common knowledge --> prevalence	common knowledge --> other
+176	脑垂体微腺瘤是良性的几率有多大？	common knowledge --> prevalence	common knowledge --> other
+177	癌症的发病基本为多大	common knowledge --> prevalence	common knowledge --> other
+178	20多岁会的癌症吗??	common knowledge --> prevalence	common knowledge --> other
+179	21岁男生会得乳腺癌吗？	common knowledge --> prevalence	common knowledge --> prevalence
+180	父亲和爷爷都患有肺癌，那儿子患此病的几率有多大	common knowledge --> prevalence	common knowledge --> etiology
+181	我15岁会得胃癌吗?急!!!!!!!!!!!!!!!!!	common knowledge --> prevalence	common knowledge --> other
+182	21岁患肝癌的几率大吗？	common knowledge --> prevalence	
+183	抽烟的人得肺癌的几率有多大？	common knowledge --> prevalence	
+184	鼻癌中晚期的治愈几率有多少？	common knowledge --> prevalence	
+185	急慢性前列腺炎会癌变吗？有多大的几率？	common knowledge --> prevalence	
+186	鼻咽癌的死亡率多高	common knowledge --> prevalence	
+187	乳腺癌一般是多大年龄段容易发生的？	common knowledge --> prevalence	
+188	请问乳腺癌根治术后12年的复发机率大吗？谢谢	common knowledge --> prevalence	
+189	老年人会长骨软骨瘤吗？X线检查骨软骨瘤是什么样的？	common knowledge --> prevalence	
+190	同床后流出来伴有血丝，得宫颈癌的几率是多少	common knowledge --> prevalence	
+191	胃癌家族性遗传率有多大	common knowledge --> prevalence	
+192	乳腺纤维瘤手术后，复发的几率很大吗	common knowledge --> prevalence	
+193	急!!!!!!!!我现在14岁,难道得了乳腺癌??!!!!	common knowledge --> prevalence	
+194	16岁的女孩可能得乳腺癌 么	common knowledge --> prevalence	
+195	成年人会有手足口病吗	common knowledge --> prevalence	
+196	乳腺癌淋巴转移是扩散吗，两者机率各是多大	common knowledge --> prevalence	
+197	肛瘘的癌变几率多大，请专业人士回答	common knowledge --> prevalence	
+198	13岁可能得大肠癌么	common knowledge --> prevalence	
+199	14岁能得胃癌吗	common knowledge --> prevalence	
+200	半年之内有没可能得宫颈癌	common knowledge --> prevalence	
+201	癌细胞已经扩散，生还的几率是多大？	common knowledge --> prevalence	
+202	切除纤维瘤之后回复发吗？	common knowledge --> prognosis	
+203	我父亲被初步诊断为胰腺癌，请实话告诉我，有治愈的可能吗	common knowledge --> prognosis	
+204	癌症晚期的病人通常最长时间能活多久？	common knowledge --> prognosis	
+205	父亲查出肝癌,家人现在都束手无策,请问有可行的治疗方法吗	common knowledge --> prognosis	
+206	我妈四年前患了乳腺癌，请问能治好吗？能活多久？	common knowledge --> prognosis	common knowledge --> prognosis
+207	乳腺癌四个期治愈率分别有多高？请详细说明。	common knowledge --> prognosis	common knowledge --> prognosis
+208	胃癌早期有没有痊愈的可能性？要怎么做？机会有多少	common knowledge --> prognosis	common knowledge --> prognosis
+209	癌症晚期能治好吗？有可能性吗？	common knowledge --> prognosis	common knowledge --> prognosis
+210	肝癌晚期，能活否？	common knowledge --> prognosis	common knowledge --> prognosis
+211	70岁老人胰腺癌晚期能活多久？	common knowledge --> prognosis	common knowledge --> prognosis
+212	化疗和乳腺癌的最坏境界?	common knowledge --> prognosis	treatment --> other treatment
+213	得了癌症一定回死吗?有没有得了后却活过来的人?	common knowledge --> prognosis	common knowledge --> prognosis
+214	晚期胃癌做手术把胃切除了还有危险吗？	common knowledge --> prognosis	treatment --> surgery
+215	请问直肠癌复发双肺转移不能动手术的患者大概能活多久	common knowledge --> prognosis	common knowledge --> prognosis
+216	食管鳞性细胞癌发展快不快	common knowledge --> prognosis	common knowledge --> prognosis
+217	食道癌晚期能活多久？	common knowledge --> prognosis	
+218	椎管肿瘤术后会怎么样？帮帮我弟弟！	common knowledge --> prognosis	
+219	乳腺增生的疙瘩会消失吗?	common knowledge --> prognosis	
+220	结肠癌治愈后能活多少年呢？	common knowledge --> prognosis	
+221	父亲70岁查出肺癌低分化癌中期，因身体素质差不能化疗，像父亲这样能支持多长时间？ 跪谢！！	common knowledge --> prognosis	
+222	结肠癌手术 医生说没转移 会不会复发 会有什么后遗症吗？	common knowledge --> prognosis	
+223	甲状腺肿瘤1年多时间从1公分长到3公分，算快的么？	common knowledge --> prognosis	
+224	我是乙肝患者，B超显示有血管瘤，会不会转化成肝癌呢？	common knowledge --> prognosis	
+225	垂体瘤手术后视力多长时间才能恢复？	common knowledge --> prognosis	
+226	甲状腺乳头状肿瘤患者甲状腺切除后多长时间复发	common knowledge --> prognosis	
+227	请问乙状结肠癌术后能活多久	common knowledge --> prognosis	
+228	乳腺癌三阴容易转移是吗？	common knowledge --> prognosis	
+229	胶质瘤星形细胞瘤2级能活多久	common knowledge --> prognosis	
+230	我头顶长了骨瘤。开刀了。要多久才能完全好	common knowledge --> prognosis	
+231	白血病治愈后最长还能活几年	common knowledge --> prognosis	
+232	从有癌症开始到有临床症状要多久	common knowledge --> prognosis	
+233	请问肺癌到了中期一般是几个月前	common knowledge --> prognosis	
+234	B细胞型非霍奇金淋巴瘤恢复过程	common knowledge --> prognosis	
+235	肺癌转移后 ……病人会不会发胖……？原病灶部位会不会变小？……	common knowledge --> prognosis	
+236	宫颈癌中期术后还能活多久	common knowledge --> prognosis	
+237	甲状腺结节恶性的会有什么结果?	common knowledge --> prognosis	
+238	滑膜肉瘤 能存活多久	common knowledge --> prognosis	
+239	乳腺癌患者摘除卵槽就不易复发了吗？	common knowledge --> prognosis	
+240	皮肤癌可活多久	common knowledge --> prognosis	
+241	肺癌晚期能活多久	common knowledge --> prognosis	
+242	乳腺癌手术后一年半检查结果不乐观，还能生存多久？	common knowledge --> prognosis	
+243	右乳浸润性导管癌,右乳以切除,没转移.以后有问题吗	common knowledge --> prognosis	
+244	肝癌患者出现肝昏迷抢救后最多还能活多久？还能下地行走吗？	common knowledge --> prognosis	
+245	免疫组化：CD79a(+),CD3(-),CD20(+),Ki-67(标记率很低），bcl-2(-)高手给解释下！	diagnosis --> test	
+246	胰头上有异物，做哪些检查能确定是否是癌症，以及癌症的严重程度？	diagnosis --> test	
+247	胰腺癌B超可以检查出来吗？	diagnosis --> test	diagnosis --> test
+248	请问专家：胃镜能分清食道炎与食道癌么	diagnosis --> test	diagnosis --> test
+249	直肠癌是通过肠镜检查还是CT检查好？哪个准确？	diagnosis --> test	diagnosis --> test
+250	胃癌术后复查CEA为8.75，意味什么？	diagnosis --> test	treatment --> surgery
+251	请帮忙看看甲状腺功能化验结果！急！！！	diagnosis --> test	diagnosis --> test
+252	乳腺癌受体检查结果	diagnosis --> test	diagnosis --> test
+253	请帮我看看我的管食症状及内镜报告	diagnosis --> test	diagnosis --> test
+254	甲状腺B超检查是单纯查腺瘤么？	diagnosis --> test	diagnosis --> test
+255	我的肚子痛了3年了，做了血液癌胚抗原，和肿瘤标记物检查	diagnosis --> test	diagnosis --> test
+256	血液的检查主要有那几项指标?能查出癌来吗!如血癌.	diagnosis --> test	diagnosis --> test
+257	肝B超检查帮我看一下好吗？	diagnosis --> test	
+258	肝脏检查不能做增强CT怎么办	diagnosis --> test	
+259	彩超报告单，请专家诊断	diagnosis --> test	
+260	彩超作用?	diagnosis --> test	
+261	胃镜能检查出所有胃病吗?	diagnosis --> test	
+262	谁能帮我看看这份病理报告有可能是癌症转移!~!~急	diagnosis --> test	
+263	16层CT能检查出血管瘤吗	diagnosis --> test	
+264	请问“核磁共振”能不能检查得出 鼻咽癌？	diagnosis --> test	
+265	肝癌检查的化验报告，谁能帮我看看？	diagnosis --> test	
+266	妇科肿瘤术后复查超声和CT哪个好些？	diagnosis --> test	
+267	癌胚抗原是5.16偏高（参考值0.2-4.3）什么意思！！！！！！！！！！！！！！！！！	diagnosis --> test	
+268	请问这份彩超检查报告是什么意思？	diagnosis --> test	
+269	骨癌晚期疼痛难忍，针也打不了了！经家属同意，可以打安乐针吗	diagnosis --> test	
+270	如果要确症肺癌需要做哪些检查？	diagnosis --> test	
+271	肺癌医生帮我看看，我的父亲不太好做了CT，谢谢	diagnosis --> test	
+272	肺部CT结果,请医生帮忙看看	diagnosis --> test	
+273	电子胃镜检查报告单什么意思	diagnosis --> test	
+274	增强CT的意义	diagnosis --> test	
+275	鼻咽癌检查报告书，请帮分析一下	diagnosis --> test	
+276	检查胃癌病人用CT好还是磁共震好？	diagnosis --> test	
+277	化验血就能知道乳腺癌有没有转移么?	diagnosis --> test	
+278	左下腹包块，如何鉴别粪块和肿瘤	diagnosis --> test	
+279	做的肾增强CT,请帮忙看下报告单	diagnosis --> test	
+280	看看这是不是胃癌啊！急！！	diagnosis --> test	
+281	母亲乳腺癌两年后复查，请懂的来看看核医学的SPECT报告单！	diagnosis --> test	
+282	请帮忙看一下我妈妈的食管癌术后病理报告	diagnosis --> test	
+283	CT加强有什么副作用吗？每做一次CT加强应该间隔多少时间？	diagnosis --> test	
+284	这个检查结果严重吗 封闭抗体检测(RSA)结果:阴性（-）	diagnosis --> test	
+285	食管癌复查需要必不可少的项目？	diagnosis --> test	
+286	PET/CT可以检查出全身多少厘米的肿瘤？血液，骨的肿瘤可以查出吗？	diagnosis --> test	
+287	宫颈癌手术后 想检查是否转移 医院一般用什么办法	diagnosis --> test	
+288	肺部肿瘤 血清化验单急需专家解释 急急急。。。。谢谢 连夜等结果	diagnosis --> test	
+289	肿瘤治疗过程中两月内复查是否能查出良性和恶性？	diagnosis --> test	
+290	纤维瘤术后病理检验报告单	diagnosis --> test	
+291	四维彩超检查结果	diagnosis --> test	
+292	CA125是确诊癌症的可靠指标吗	diagnosis --> test	
+293	什么检查能发现较小的乳腺纤维瘤？	diagnosis --> test	
+294	增强ct有用吗	diagnosis --> test	
+295	头部疼痛 请问在不疼痛时核磁共振能查出病因	diagnosis --> test	
+296	胃痛检查必须做胃镜吗?有没有其它方法:?	diagnosis --> test	
+297	~再次跪求！！帮我解读一下这个CT诊断报告！！	diagnosis --> test	
+298	跪求肝癌二次介入后一个月肝部B超检查解释	diagnosis --> test	
+299	X光会不会把乳腺癌无检为肺结核	diagnosis --> test	
+300	请帮我看一下B超报告	diagnosis --> test	
+301	请帮我看看我的TORCH检查报告	diagnosis --> test	
+302	这个报告是不是肝癌	diagnosis --> test	
+303	肺癌术后，血液检查报告，麻烦谁帮我看一下，谢谢了。。	diagnosis --> test	
+304	超声检查报告单	diagnosis --> test	
+305	早产儿CT左侧基底节区多发低密度灶 严重么？	diagnosis --> test	
+306	乳腺彩超报告单	diagnosis --> test	
+307	哪位好人啊.帮忙看哈超声检查报告单啊!急诊!	diagnosis --> test	
+308	胃病问题 请帮我解释一下这个胃镜报告 谢谢了	diagnosis --> test	
+309	怀疑脉管炎需做哪些检查	diagnosis --> test	
+310	检查报告单，请高人指点迷津！！	diagnosis --> test	
+311	结肠检验报告单	diagnosis --> test	
+312	检查胃病，除了做胃镜，还有其他比较准确的检查吗？	diagnosis --> test	
+313	AFP超过700说明什么？	diagnosis --> test	
+314	请医生看下超声诊断报告	diagnosis --> test	
+315	急！！请专家帮忙分析一下帮忙看贲门癌术后病理报告	diagnosis --> test	
+316	有经验的医生们帮我看看这份B超单子。	diagnosis --> test	
+317	希望好心人帮我看下 检查报告单！	diagnosis --> test	
+318	直肠癌病理诊断报告，请专业人士进来分析一下，多谢！！	diagnosis --> test	
+319	帮忙解读肝病检查报告，谢谢！	diagnosis --> test	
+320	5年前乳腺癌患者，今查检碱性磷酸酶偏高，患者安全吗？	diagnosis --> test	
+321	哪位专家帮我看看超声检查报告单	diagnosis --> test	
+322	小细胞肺癌标志物NSE值过高可以肯定是肺癌么?	diagnosis --> test	
+323	请问从这个报告上显示内膜癌的机率先多大,谢谢了	diagnosis --> test	
+324	免疫组化结果 请帮忙解释一下这是不是淋巴癌？是什么类型的？	diagnosis --> test	
+325	肿瘤专家帮诊断一下这个彩超，谢谢了	diagnosis --> test	
+326	前几天做了头部CT，结果是右侧上颌窦积液，右侧上颌窦炎，请问严重吗	diagnosis --> test	
+327	胃镜检查有效性	diagnosis --> test	
+328	我的生化检查需要注意什么	diagnosis --> test	
+329	这个病理会诊报告是什么意思？请知道的详解一下，谢谢	diagnosis --> test	
+330	我的鼻屎是有点灰色的，我有鼻咽癌吗？	diagnosis --> what's the condition	
+331	咽喉部有一个骨质硬块 影响吞咽 请专家解答	diagnosis --> what's the condition	
+332	半夜老出汗怎么回事?	diagnosis --> what's the condition	
+333	口腔溃疡已经好了，但下颌左边左边淋巴还是肿大，是不是得了其他什么疾病？	diagnosis --> what's the condition	
+334	我后背的腰部有两块硬的东西，不知道是什么，一边一个。	diagnosis --> what's the condition	
+335	肋叉子一按就疼是怎么回事	diagnosis --> what's the condition	
+336	请问乳头下陷会不会是患有乳腺纤维瘤?谢谢!	diagnosis --> what's the condition	
+337	找专家看看我这是不是直肠癌前期,谢谢~!	diagnosis --> what's the condition	
+338	听说拉绿色的屎是癌，是不是呀？	diagnosis --> what's the condition	
+339	我左液下有个小硬东西，是肿瘤？	diagnosis --> what's the condition	
+340	不肯定是不是血管瘤。	diagnosis --> what's the condition	
+341	我腋下有一个包块，请问这是肿瘤吗	diagnosis --> what's the condition	
+342	胸腔积水，积水化验CEA浓度上升就一定是癌症吗	diagnosis --> what's the condition	
+343	肿瘤疼痛回是癌症吗？	diagnosis --> what's the condition	
+344	后腰皮下长包是怎么回事	diagnosis --> what's the condition	
+345	帮我看我是不是得了脑瘤?	diagnosis --> what's the condition	diagnosis --> what's the condition
+346	乳腺恶性肿瘤超过5厘米没有淋巴转移属于几期乳腺癌	diagnosis --> what's the condition	diagnosis --> what's the condition
+347	我这种情况是畸胎瘤吗？要怎么医治啊？现在很害怕。	diagnosis --> what's the condition	diagnosis --> what's the condition
+348	肺癌切除术后，医生拿出来切除的东西告诉家属是良性的，这意味着什么，还算是癌吗？还是只算肿瘤？	diagnosis --> what's the condition	diagnosis --> what's the condition
+349	妈妈腰部有个半厘米的硬块，请问下是什么谢谢啦	diagnosis --> what's the condition	diagnosis --> what's the condition
+350	屁股上长了个坨是什么?	diagnosis --> what's the condition	diagnosis --> what's the condition
+351	我这几天排练跳舞，手上的肌肉很痛，两上胸也好痛	diagnosis --> what's the condition	diagnosis --> what's the condition
+352	右肩疼痛，会是肿瘤吗？还是上网时间过长？	diagnosis --> what's the condition	diagnosis --> what's the condition
+353	胸口有一小硬点范围1公分这样请问是瘤吗！请回答的详细点谢谢！	diagnosis --> what's the condition	diagnosis --> what's the condition
+354	大腿上有个小瘤子是什么？	diagnosis --> what's the condition	diagnosis --> what's the condition
+355	不知道我这是不是骨肿瘤？？	diagnosis --> what's the condition	diagnosis --> what's the condition
+356	我这个究竟是直肠癌呀还是痔疮呢..	diagnosis --> what's the condition	diagnosis --> what's the condition
+357	自小我的耳背上长了一个软软的肉瘤有无大碍??	diagnosis --> what's the condition	diagnosis --> what's the condition
+358	我在右侧乳晕下部有个小肿块,已经有一段时间了,而且同侧腋下也有个肿块,请问这是乳腺癌吗？	diagnosis --> what's the condition	diagnosis --> what's the condition
+359	我男性21乳房有个肿快好多年了不知是不是乳腺癌	diagnosis --> what's the condition	diagnosis --> what's the condition
+360	我右大腿外侧有一点小刺痛，请问。。。	diagnosis --> what's the condition	diagnosis --> what's the condition
+361	体内发现硬块，除了会是癌还会是什么可能	diagnosis --> what's the condition	diagnosis --> what's the condition
+362	考试时候电子探测器查出我身上磁场高，我身上并没带金属物质，这是为什么呀，是不是有癌症？	diagnosis --> what's the condition	diagnosis --> what's the condition
+363	头上长了一个肉瘤是什么	diagnosis --> what's the condition	diagnosis --> what's the condition
+364	感觉到痛的一定是癌吗？	diagnosis --> what's the condition	diagnosis --> what's the condition
+365	浸慢性导管癌可以分变是良性还是恶性吗?	diagnosis --> what's the condition	diagnosis --> what's the condition
+366	脖子上长了一些小瘤子,不痛不痒,开始只有一颗,才一个月就变成了三颗,请问是什么病?谢谢	diagnosis --> what's the condition	diagnosis --> what's the condition
+367	左侧脖子里面长了个黄豆大小的淋巴结，请专业人事来解答下	diagnosis --> what's the condition	diagnosis --> what's the condition
+368	我爸爸得了疑是胰腺炎的病,但还没有确症,请问这是什么病	diagnosis --> what's the condition	
+369	跪求肝部阴影一定是癌吗，急！急！	diagnosis --> what's the condition	
+370	掉头发并伴有一定程度的头痛，会不会是脑子里长瘤子？？？	diagnosis --> what's the condition	
+371	肝右叶占位是什么病？	diagnosis --> what's the condition	
+372	近几个星期，我较以前相比吃的少的多，可能是胃有问题。	diagnosis --> what's the condition	
+373	单位体检,做彩超和CT发现肝上有一个2X2大小的占位性病变,是什么肿瘤?良性还是恶性?做增强CT可以检查清楚吗	diagnosis --> what's the condition	
+374	胸片检查出左肺门影明显扩大是什么原因	diagnosis --> what's the condition	
+375	急性扁桃体炎频繁发作，会不会是咽喉癌啊？	diagnosis --> what's the condition	
+376	1月26日在医院做了B超，左附件囊肿2.5*1.9cm,右附件正常，子宫体积正常，我想问一下，这样问题大吗	diagnosis --> what's the condition	
+377	我妈06年中晚期鼻咽癌。化疗跟放疗两个月。07年12月开始头晕，抗生素无效请问是复发吗。头晕是什么原因	diagnosis --> what's the condition	
+378	我爸爸癌症全胃切除后有转移,现在吃完饭肚子剧痛是怎么回事啊	diagnosis --> what's the condition	
+379	胃常痛，一般在开餐前2—3小时，，且进食后就减缓疼痛，会不会是胃癌？做一次胃镜检查大概要多少钱？	diagnosis --> what's the condition	
+380	颈部有球型硬块,会是癌症吗?	diagnosis --> what's the condition	
+381	男 24岁 昨天发现左乳头下有一一分硬币大硬块,不知何因	diagnosis --> what's the condition	
+382	颈部的肿块时小时大,是肿瘤吗?	diagnosis --> what's the condition	
+383	我妈妈的彩超会不会是乳腺癌，今年48岁	diagnosis --> what's the condition	
+384	妇科TCT检查出鳞状细胞病变：HSIL。腺细胞病变：阴性。请问这是宫颈癌吗？	diagnosis --> what's the condition	
+385	胸部肿瘤一般是什么病~??	diagnosis --> what's the condition	
+386	今天早上起床后嘴里吐出了深红的血,我很担心是鼻咽癌,不知道怎么办才好?	diagnosis --> what's the condition	
+387	为什么耳上长毛,会不会有什么病	diagnosis --> what's the condition	
+388	鼻咽癌患者康复后舌头肿大，脚肿是怎么回事	diagnosis --> what's the condition	
+389	锁骨窝里的肿块，最近长大了，不知为何？	diagnosis --> what's the condition	
+390	胰腺癌晚期病人脚浮肿是怎么回事?	diagnosis --> what's the condition	
+391	我的不知道是痔疮还是肛瘘，别是直肠癌就好！	diagnosis --> what's the condition	
+392	手指甲原本光滑光亮，现在却变的有竖条纹理	diagnosis --> what's the condition	
+393	我做了MR胸椎检查，报告单上说T5椎体右侧可见一长圆形囊性长T1长T2信号影，这是什么囊肿呢？	diagnosis --> what's the condition	
+394	女朋友23岁，两个月前偶然发现乳晕下侧的里面有个黄豆大的硬结，不痛不痒，没有明显变化，会是什么病啊？	diagnosis --> what's the condition	
+395	急！！！！！！膀胱内有团块是怎么回事？	diagnosis --> what's the condition	
+396	我的头有肿块希望知道是什么原因	diagnosis --> what's the condition	
+397	我爸爸的胃癌手术过半年后出现呕吐症状	diagnosis --> what's the condition	
+398	我怎么总是3~5天才一次大便有什么异常？	diagnosis --> what's the condition	
+399	贲门癌术后，每次饭后心跳快怎么回事？	diagnosis --> what's the condition	
+400	左峡皮下长了一大小0.4*0.6CM的结节，肿瘤？？？	diagnosis --> what's the condition	
+401	右侧后背痛怎么回事	diagnosis --> what's the condition	
+402	舌头上长个小肉瘤喝酒就大,不喝酒就小,请问是什么病	diagnosis --> what's the condition	
+403	固有膜中见有浸润的上皮细胞条索，ck(+),ki67(25~50%)，符合低分化鳞状细胞癌，通过这些可以确诊为癌了吗	diagnosis --> what's the condition	
+404	我姐肺部大细胞肿瘤一直胸疼是怎么回事啊	diagnosis --> what's the condition	
+405	从小胃就疼怎么回事。	diagnosis --> what's the condition	
+406	我脖子后面左边长了个圆圆的东西，不痛，也不知道是什么，会是瘤子吗？	diagnosis --> what's the condition	
+407	皮肤下有至少8个小脂肪瘤，不知是什么病情？分布在背部和四肢	diagnosis --> what's the condition	
+408	皮肤上多处出黄豆大黑色瘤，是怎么回事？	diagnosis --> what's the condition	
+409	不感冒,不发烧,但是头会痛,为什么?	diagnosis --> what's the condition	
+410	右下腹肠系膜探及大者18*7mm的回声区是什么？是什么引起的？	diagnosis --> what's the condition	
+411	左胸有肿块怎么回事?	diagnosis --> what's the condition	
+412	为什么胸口疼	diagnosis --> what's the condition	
+413	我妈妈这样是不是胃癌的症状	diagnosis --> what's the condition	
+414	颈部长了个小疙瘩，会是淋巴癌吗？	diagnosis --> what's the condition	
+415	请问为什么长白眉毛？癌症？	diagnosis --> what's the condition	
+416	乳房酸疼 会不会是乳腺癌？	diagnosis --> what's the condition	
+417	AFP弱阳性，肝功B超无异常，是肝癌吗	diagnosis --> what's the condition	
+418	右乳低回声结节是什么意思 会发展非乳腺癌么	diagnosis --> what's the condition	
+419	B超显示肝脏门静脉右支栓塞，其他地方也有结节。转氨酶385，是肝癌的可能性大吗？	diagnosis --> what's the condition	
+420	甲胎蛋白1210，癌胚抗原4.2，是否已得癌症？	diagnosis --> what's the condition	
+421	头上长小包请问是肿瘤还是什么东西?	diagnosis --> what's the condition	
+422	额头那有压迫感觉的问题?懂医学的人进来帮下我	diagnosis --> what's the condition	
+423	乳房纤维瘤切片怎么辨别良性还是有恶变?	diagnosis --> what's the condition	
+424	淋巴肿大是否有大问题？？？？	diagnosis --> what's the condition	
+425	脑袋像针扎似的疼，基本是隔十分钟左右疼一下，从昨天早晨持续到现在了！请问是怎么回事啊？	diagnosis --> what's the condition	
+426	生殖器上有小肉瘤是什么东西啊？	diagnosis --> what's the condition	
+427	肝硬化了 但是肝上长个6厘米大的东西会是肝癌吗	diagnosis --> what's the condition	
+428	后颈部出现淋巴肿囊，什么原因？	diagnosis --> what's the condition	
+429	肺癌转移到头部就是晚期了么？	diagnosis --> what's the condition	
+430	右上腹肝痛是何故？	diagnosis --> what's the condition	
+431	我妈妈10年前就发现乳房有个小纤维瘤现在医生说是乳腺癌可能么？	diagnosis --> what's the condition	
+432	请问我到底怎么了,食管和胃都巨不舒服.	diagnosis --> what's the condition	
+433	我是经常喝酒的，第二天的大便呈黑色的，鼻子也有少量的出血，有恶心和干呕吐的现象，这是不是胃癌？？？	diagnosis --> what's the condition	
+434	我右肩膀长了一个瘤，是怎么回事儿？	diagnosis --> what's the condition	
+435	下颚出现块状，脖子上都有。请问是淋巴癌吗？	diagnosis --> what's the condition	
+436	胸部表面有结卡会不会是乳癌啊？！	diagnosis --> what's the condition	
+437	淋巴肿大，白细包过低是怎么引起的	diagnosis --> what's the condition	
+438	我小腿上长了个包，医生说是纤维瘤。	diagnosis --> what's the condition	
+439	妈妈去医院取鼻子旁边的痣，医生化验出来是痣癌，血检说是正常的，请问这样的情况严重吗	diagnosis --> what's the condition	
+440	最近总恶心肚子难受是不是脑瘤？	diagnosis --> what's the condition	
+441	阴茎根部长了两颗小小的肉瘤，是什么原因?	diagnosis --> what's the condition	
+442	我脚上小腿位置长了一个豆豆大小的东西,请问是瘤子吗?	diagnosis --> what's the condition	
+443	脖子上长了一个甲状腺肿块，怎么回事？会很影响么？要切除么？有什么要注意的？谢谢各位了！	diagnosis --> what's the condition	
+444	睾丸硬块，是炎症还是癌症！	diagnosis --> what's the condition	
+445	有神外的大夫在吗后脑疼痛是肿瘤吗	diagnosis --> what's the condition	
+446	不做手术可以判断肿瘤是良性恶性吗	diagnosis --> what's the condition	
+447	肝癌晚期的头疼是为什么?	diagnosis --> what's the condition	
+448	喉、甲状腺及气管颈段的前方有个肉蛋，一直不消，是怎么回事？	diagnosis --> what's the condition	
+449	肝部不适，什么原因	diagnosis --> what's the condition	
+450	我去年开始出现腰痛,屁股上面一面也有点痛,这是不是宫颈癌的前期症状?	diagnosis --> what's the condition	
+451	AFP是12点多，肝部多个阴影，请问是否肝癌？	diagnosis --> what's the condition	
+452	肝右叶膈顶见34*30mm低回声区，cdfi内见点状血流是怎么回事	diagnosis --> what's the condition	
+453	胃癌化疗完后3个月经常全身胀痛是怎么回事啊？	diagnosis --> what's the condition	
+454	爸爸老打嗝医生说是食道瘤？是么？怎么治理啊？？	diagnosis --> what's the condition	
+455	耳朵后面长了个包要紧吗？	diagnosis --> what's the condition	
+456	最近我耳朵后边的淋巴又开变大了一点拉怎么回事	diagnosis --> what's the condition	
+457	急救：肛门的一侧，最近发现多了一个细细长长的小肉瘤，请问那是什么，有无大碍？	diagnosis --> what's the condition	
+458	婴儿头部长个瘤是怎么回事？	diagnosis --> what's the condition	
+459	我有慢性咽炎2年半了，滤泡增生严重，现在我吃饭堵塞，食物有滞留感，是不是食道的问题，	diagnosis --> what's the condition	
+460	左胸左肩膀疼是怎么回事？	diagnosis --> what's the condition	
+461	腋下 脖子淋巴已有7到8年最近发现两边各有几颗，是不是淋巴癌早期症状。	diagnosis --> what's the condition	
+462	纤维瘤开刀后乳晕有点肿硬有痛是什么原因？	diagnosis --> what's the condition	
+463	脑瘤后，头疼是正常反应吗？	diagnosis --> what's the symptom	
+464	一般得妇科癌症之前有没有什么症状呢	diagnosis --> what's the symptom	
+465	脑瘤的症状是不是大脑很痛啊?	diagnosis --> what's the symptom	diagnosis --> what's the symptom
+466	胸部肿瘤是疼的好还是不疼的好？	diagnosis --> what's the symptom	diagnosis --> what's the symptom
+467	胃部肿瘤一般多大	diagnosis --> what's the symptom	common knowledge --> other
+468	鼻咽癌的颈部淋巴结转移会有什么症状	diagnosis --> what's the symptom	diagnosis --> what's the symptom
+469	直肠癌的确诊	diagnosis --> what's the symptom	diagnosis --> what's the symptom
+470	胃癌有哪些症状?	diagnosis --> what's the symptom	diagnosis --> what's the symptom
+471	什么样的溃疡可能是口腔粘膜癌？	diagnosis --> what's the symptom	
+472	癌症初期有那写症状？	diagnosis --> what's the symptom	
+473	胃肿瘤有什么特征	diagnosis --> what's the symptom	
+474	患癌症之前都有什么反应	diagnosis --> what's the symptom	
+475	乳腺癌的症状？	diagnosis --> what's the symptom	
+476	淋巴结怎么才能诊断出来？	diagnosis --> what's the symptom	
+477	乳腺癌确诊这么难？仁术仁心请进	diagnosis --> what's the symptom	
+478	脊柱里长了癌细胞会有哪些症状	diagnosis --> what's the symptom	
+479	皮肤癌的症状是怎样的啊!	diagnosis --> what's the symptom	
+480	癌症的前期有哪些症状	diagnosis --> what's the symptom	
+481	癌症的疼痛是连续不断的吗	diagnosis --> what's the symptom	
+482	喉癌(声门型)的治疗术后放疗25天及术后50天，现还出现喉部不适。如：痒导致咳、沙哑。请问这种症状正常吗	diagnosis --> what's the symptom	
+483	食道癌初期症状一般持续多久？	diagnosis --> what's the symptom	
+484	直肠癌有什么症状	diagnosis --> what's the symptom	
+485	淋巴瘤用手摸或者按 会不会稍微有点疼	diagnosis --> what's the symptom	
+486	胆管癌怎么确诊啊？	diagnosis --> what's the symptom	
+487	这是脑肿瘤的症状吗？	diagnosis --> what's the symptom	
+488	怎样查是否得了癌症	diagnosis --> what's the symptom	
+489	睾丸癌的病状	diagnosis --> what's the symptom	
+490	请问脑癌的症状会不会发生头骨突出，眼睛突出！	diagnosis --> what's the symptom	
+491	鼻咽癌都有哪些表现？	diagnosis --> what's the symptom	
+492	肺癌晚期症状?	diagnosis --> what's the symptom	
+493	肺癌肿瘤长在肺门处,患者会不会更痛苦	diagnosis --> what's the symptom	
+494	这是肝癌末期症状吗？	diagnosis --> what's the symptom	
+495	我的这种情况是不是食道癌早期症状？	diagnosis --> what's the symptom	
+496	军人得癌病，需要终生服药，复员时有相应政策吗？	finance	
+497	您好。请问墨痣是看什么科	health provider choosing --> department	health provider choosing --> department
+498	淋巴肉瘤该看什么科？血液还是肿瘤	health provider choosing --> department	health provider choosing --> department
+499	担心自己得乳腺癌,想去医院检查?大概多少钱呢?看什么科?他会怎么检查?	health provider choosing --> department	
+500	腹壁有一肿块，应该去看哪个科	health provider choosing --> department	
+501	子宫肌瘤和附件包块应该看肿瘤科还是妇科?	health provider choosing --> department	
+502	余姚市人民医院（1院）看乳腺要去什么科室?	health provider choosing --> department	
+503	怎么样可以联系到何裕民教授呢，急！！！	health provider choosing --> doctor	
+504	请问北京哪位大夫看肝癌比较不错`？	health provider choosing --> doctor	
+505	上海的胰腺癌治疗专家是谁	health provider choosing --> doctor	
+506	急～～！！谁有肿瘤专家的联系方法～～！！	health provider choosing --> doctor	
+507	枣庄甘霖煤矿附近有个很著名的治癌症的中医，怎么找啊。路线是什么。	health provider choosing --> doctor	
+508	青海西宁第五人民医院肿瘤科副主任医师是谁？	health provider choosing --> doctor	
+509	百度的GGJJ们，有谁比较清楚知道济南关于治疗卵巢肿瘤方面的专家的？	health provider choosing --> doctor	
+510	伽玛刀做脑瘤哪家医院做的好?很急!!!!	health provider choosing --> hospital	
+511	深圳哪个医院治疗恶性淋巴肿瘤最好？有推荐的医师吗？谢谢了！	health provider choosing --> hospital	
+512	谁知道哪里治疗右侧面颊部皮下错构瘤最好？	health provider choosing --> hospital	health provider choosing --> hospital
+513	广州市哪间医院医鼻咽癌最好？	health provider choosing --> hospital	health provider choosing --> hospital
+514	求助大家，南京哪家医院治疗肺癌最好啊	health provider choosing --> hospital	health provider choosing --> hospital
+515	食道癌治疗北京那家医院比较好？急	health provider choosing --> hospital	health provider choosing --> hospital
+516	请问中国最权威的肿瘤医院在什么地方？	health provider choosing --> hospital	
+517	济南哪家医院对于癌症的诊断较好，医术较高？	health provider choosing --> hospital	
+518	治疗肿瘤哪个医院好？	health provider choosing --> hospital	
+519	治疗下咽癌比较好的医院或医生	health provider choosing --> hospital	
+520	请好心人帮帮忙,告知治疗神经母细胞肿瘤成功的医院???	health provider choosing --> hospital	
+521	陕西 咸阳 那各医院 放疗设备 最好	health provider choosing --> hospital	
+522	上海哪家医院能治疗肾上腺肿瘤?	health provider choosing --> hospital	
+523	癌症晚期病人临终关怀在上海有哪些医院?	health provider choosing --> hospital	
+524	请问颈椎硬膜内髓外肿瘤哪里治的最好	health provider choosing --> hospital	
+525	哪个医院可以治好恶性嗜铬性细胞肿瘤	health provider choosing --> hospital	
+526	谁知道吉林省哪个医院有伽马刀吗?能介绍大连好的伽马刀医院也可以	health provider choosing --> hospital	
+527	天津PET-CT哪家医院的技术比较好？天津有PET-MRI吗？	health provider choosing --> hospital	
+528	急求!!!~~~谁知道广西北海哪家医院有唑来磷酸注射??	health provider choosing --> hospital	
+529	淋巴癌，白血病在天津哪治疗？	health provider choosing --> hospital	
+530	多发性骨髓癌的专门医院	health provider choosing --> hospital	
+531	右乳腺浸润导管癌CERB—2扩增在哪家医院开展	health provider choosing --> hospital	
+532	我母亲肝筋上长了俩个肿瘤 去哪家医院比较合适	health provider choosing --> hospital	
+533	佳木斯二院和佳木斯中心医院哪个医院作乳腺纤维瘤好	health provider choosing --> hospital	
+534	广州做“光子刀”冶疗肿瘤，选哪家医院好	health provider choosing --> hospital	
+535	淋巴管瘤哪家医院好	health provider choosing --> hospital	
+536	哪里能治疗喉乳头状瘤	health provider choosing --> hospital	
+537	许昌哪家医院好呀！！！！！	health provider choosing --> hospital	
+538	延吉肿瘤医院地址！	health provider choosing --> hospital	
+539	肝癌晚期哪里治好？？？？？	health provider choosing --> hospital	
+540	哪里可以做直肠癌低位保肛手术（距离肛门只有2公分）	health provider choosing --> hospital	
+541	肿瘤在什么医院做手术好？	health provider choosing --> hospital	
+542	德坤瑶医治疗肿瘤有效吗？	health provider choosing --> hospital	
+543	北京有哪些好的肿瘤医院和医生	health provider choosing --> hospital	
+544	上海东方肝胆医院和北京301医院对于治疗胆囊癌哪个更专业？	health provider choosing --> hospital	
+545	得癌症的人吃鱼的内脏行么？	healthy lifestyle --> diet	
+546	直肠癌病人有饮食要注意的地方？	healthy lifestyle --> diet	
+547	淋巴癌该吃哪些事物	healthy lifestyle --> diet	healthy lifestyle --> diet
+548	请问癌症患者吃海参会不会使癌细胞扩散加快？	healthy lifestyle --> diet	healthy lifestyle --> diet
+549	肝癌,胃癌患者吃什么食物好	healthy lifestyle --> diet	healthy lifestyle --> diet
+550	胰头癌能否吃蜂皇浆?	healthy lifestyle --> diet	healthy lifestyle --> diet
+551	肝脏长瘤应该注意什么饮食	healthy lifestyle --> diet	healthy lifestyle --> diet
+552	子宫肿瘤手术期间可以吃什么水果？	healthy lifestyle --> diet	healthy lifestyle --> diet
+553	肿瘤病人吃些什么好？	healthy lifestyle --> diet	healthy lifestyle --> diet
+554	甲状腺肿瘤切除手术结束三个月后，病人应该进食那些东西？	healthy lifestyle --> diet	healthy lifestyle --> diet
+555	癌症病人吃人参好不好谢谢	healthy lifestyle --> diet	healthy lifestyle --> diet
+556	听长辈们说胃癌在化疗期间如果吃营养的东西,肿瘤很容易大,是真的吗	healthy lifestyle --> diet	
+557	肝癌吃什么东西好什么不好	healthy lifestyle --> diet	
+558	我是乳腺癌患者，请问可以吃善存片吗	healthy lifestyle --> diet	
+559	得了脑癌吃什么有利于恢复	healthy lifestyle --> diet	
+560	食道癌术后如何膳食	healthy lifestyle --> diet	
+561	前列腺癌病人应吃什么？	healthy lifestyle --> diet	
+562	癌症病人化疗期间是否可食用香菇	healthy lifestyle --> diet	
+563	关于胃癌，手术后化疗期的饮食！很急！请专业认识给予解答，谢谢啦！	healthy lifestyle --> diet	
+564	我姥姥得了食道癌现在是中期,由于年龄大了不想做手术谁知道吃什么东西对这个病有好处啊？或者有什么偏方！	healthy lifestyle --> diet	
+565	患鼻咽癌能吃蛋白粉吗	healthy lifestyle --> diet	
+566	请问胃胀要吃些什么才好呢?	healthy lifestyle --> diet	
+567	肿瘤开刀后适合吃哪些	healthy lifestyle --> diet	
+568	乳腺癌初期已治好，调养身体方面该吃什么好呢？	healthy lifestyle --> diet	
+569	癌症病人吃中药忌食什么	healthy lifestyle --> diet	
+570	乳腺癌病人能吃带鱼吗	healthy lifestyle --> diet	
+571	甲状腺乳头状癌，术后吃什么？	healthy lifestyle --> diet	
+572	脑胶质瘤,吃什么好，她是左脑一个瘤，右脑一个最多可以活多久？	healthy lifestyle --> diet	
+573	癌症晚期患者每天应吃几只冬虫夏草阿	healthy lifestyle --> diet	
+574	不想吃饭的人该吃什么?	healthy lifestyle --> diet	
+575	食道癌患者手术后宜吃什么食物？	healthy lifestyle --> diet	
+576	请问乳腺癌能吃橄榄油吗	healthy lifestyle --> diet	
+577	胃癌病人能吃山芋么？	healthy lifestyle --> diet	
+578	咽喉癌患者可以喝豆浆吗	healthy lifestyle --> diet	
+579	我的母亲因为乳腺癌转移脑部正在做放疗，可以给她吃安利的蛋白质粉吗？对她会有帮助吗？	healthy lifestyle --> diet	
+580	晚期胰头癌能吃甜食吗？	healthy lifestyle --> diet	
+581	甲状腺乳头状癌术后饮食要注意什么	healthy lifestyle --> diet	
+582	术后喝豆奶有没有害处	healthy lifestyle --> diet	
+583	食管平滑肌瘤手术后要如何补充营养	healthy lifestyle --> diet	
+584	我妈妈得了乳腺癌化验结果是3个H，易转移型！还有糖尿病！饮食方面有什么好建议？	healthy lifestyle --> diet	
+585	肺癌患者,放疗期间应该补充什么营养	healthy lifestyle --> diet	
+586	做完癌症切除手术后应该补充什么食物巩固身体？	healthy lifestyle --> diet	
+587	乳腺癌的病人术后能不能吃鳗	healthy lifestyle --> diet	
+588	有关乳腺增生和良性肿瘤可以吃鱼吗？	healthy lifestyle --> diet	
+589	胃疼了应吃些什么补品？？？	healthy lifestyle --> diet	
+590	胃癌能不能吃板栗酥?	healthy lifestyle --> diet	
+591	请问，如果患了十二指肠球部溃疡，该吃什么好?	healthy lifestyle --> diet	
+592	肿瘤病人的心理问题	healthy lifestyle --> mood control	healthy lifestyle --> mood control
+593	怎么消除癌症病人对死亡的恐惧感	healthy lifestyle --> mood control	healthy lifestyle --> mood control
+594	妈妈。肝癌，倒数的日子》》》我快受不了了	healthy lifestyle --> mood control	
+595	因病压力大时，怎样控制不正常的举动	healthy lifestyle --> mood control	
+596	我爸爸得肝癌就快死了，碰上这事，真是叫天天不灵，哭天喊地都没用！	healthy lifestyle --> mood control	
+597	影响肿瘤患者夜间留院休息的因素	healthy lifestyle --> other	
+598	癌症病人能泡温泉吗？	healthy lifestyle --> other	healthy lifestyle --> other
+599	脑部有肿瘤的人可不可以染发烫发	healthy lifestyle --> other	healthy lifestyle --> other
+600	我女儿16岁患甲状腺乳头状癌淋巴转移 ,做了手术 术后1年复发 又做了一次 她这种情况可以结婚生育吗	healthy lifestyle --> other	
+601	化疗暂时出院后在家修养应注意些什么，谢谢？	healthy lifestyle --> other	
+602	膀胱癌全切手术后.十天了尿袋正常.今天手术伤口袋还有60毫升.微血色,何时才能拔管.不会漏尿吧?.	healthy lifestyle --> other	
+603	乳腺癌可以按摩吗?	healthy lifestyle --> other	
+604	跪求 肝癌患者 口苦无法吃饭的 解决方法！！	healthy lifestyle --> other	
+605	乳腺癌化疗期间可以过性生活吗？	healthy lifestyle --> other	
+606	睡觉时压着脂肪瘤了，这对它有影响吗？	healthy lifestyle --> other	
+607	可以用癌症晚期的病人的精子做体外受精培育试管婴儿吗?	healthy lifestyle --> other	
+608	肺癌术后康复，请专家及各位朋友不吝赐教	healthy lifestyle --> other	
+609	乳腺癌对今后生活的影响、保健。	healthy lifestyle --> other	
+610	求助！！！食道癌老是吐吃不下怎么办？？？急！！	healthy lifestyle --> other	
+611	帮帮忙啊！近几天我发现自己 胸部长了一个圆硬的东西，怎么办？	healthy lifestyle --> other	
+612	我老爸去年12被诊断为肺癌（鳞癌），化疗加放疗已经一年了，现在很正常了，请问以后怎么办啊？要注意什么	healthy lifestyle --> other	
+613	癌症患者是否可以服用螺旋藻胶囊（国药准字号)的	healthy lifestyle --> other	
+614	膀胱癌全切皮肤造瘘术后，如何解决不能自主排尿和生活不便	healthy lifestyle --> other	
+615	腮腺混合瘤术后可以吸烟么	healthy lifestyle --> other	
+616	有乳腺纤维瘤可以母乳喂养吗？	healthy lifestyle --> other	
+617	我得了心灵的癌症——强迫症！我怎么办？人生幸福哪里找？	other	
+618	心理问题，好像我有癌症性格。	other	other
+619	颈上淋巴结.今天去大医院抽血检查了希望结果是好的.大家祝福我吧.	other	
+620	做梦 自己得了癌症 有什么解释	other	
+621	天津从海光寺打车到肿瘤医院得多钱啊	other	
+622	市级医院是否可以收癌症患者	other	
+623	中山肿瘤防治中心，放疗专业的博士好考吗？	other	
+624	乳腺癌患者能不能办理病退	other	
+625	求助!MMR疫苗接种后出现颈部淋巴结肿大,急~~~	prevention --> drug for prevention	
+626	吃瓜子是否防癌症？	prevention --> food for prevention	
+627	红薯可以防癌吗?	prevention --> food for prevention	
+628	多吃什么食物能预防乳腺癌？	prevention --> food for prevention	prevention --> food for prevention
+629	蜂胶可以抗癌？	prevention --> food for prevention	
+630	芦笋罐头抗癌吗？	prevention --> food for prevention	
+631	如何预防骨癌,吃哪些事物?	prevention --> food for prevention	
+632	患了食管癌后，手术及放疗已经有两年，如何预防感冒多发	prevention --> other	
+633	怎样防治胃癌	prevention --> other	prevention --> other
+634	关于脂肪瘤的防治？请教名医！	prevention --> other	prevention --> other
+635	是不是很多癌症根本不能观察预防？比如骨癌和白血病，平时谁抽骨髓呢？非要恶化才会知道。	prevention --> other	
+636	怎么样才不会得癌症呢	prevention --> other	
+637	我男朋友的大姑 大爷 大娘 都是肺癌去世的 听说这个病遗传 有办法检测吗 或者有办法防治吗	prevention --> other	
+638	生活中怎么防止癌症	prevention --> other	
+639	怎样避免得乳腺癌 ？	prevention --> other	
+640	原发性肝癌应该怎么预防才好？	prevention --> other	
+641	皮肤癌怎样预防？	prevention --> other	
+642	怎样防止宫颈原位癌复发	prevention --> other	
+643	预防淋巴癌,医生回答最好	prevention --> other	
+644	关于“紫砂”抗癌的问题	prevention --> other	
+645	请问哪位好心的医生朋友能给我一点在肿瘤方面的建议呢？详细请看——补充说明。	second opinion	
+646	我父亲这次肝癌又复发了怎么办希望知道的人进来给点意见 谢谢了	second opinion	
+647	我家隔避的学生21岁 得了晚期胃癌 可是TA要求生前家人买台新的电脑 该不该答应	second opinion	
+648	请教高人，在线等：父亲纵隔恶性肿瘤转移到肺，我应如何应对	second opinion	
+649	我的女朋友二十七，前一个月发现胃癌早期，大家帮帮我，我应该怎么办，跪求，能给我最大的意见，谢谢	second opinion	
+650	去看望胃癌病人，带什么比较好？（食物、水果）	second opinion	
+651	母亲去年得了乳腺癌，父亲今年的了肺癌我该怎么办	second opinion	
+652	我家有腮腺癌患者，我们不想让他本人知道，但是他要看病理。不知道那位有良性腮腺的病理图，谢谢了。	similar experience finding	
+653	生命丝带对乳房腺瘤有用吗？用过的朋友请进	similar experience finding	
+654	谁用过双灵固本散多少钱?用过的请进!~~~~~~~~~~	treatment --> drug therapy	
+655	请问淋巴瘤的化疗次数适宜在几次啊？	treatment --> drug therapy	
+656	中草药治癌症能行吗,胆囊癌晚期，肝转移	treatment --> drug therapy	
+657	肺癌,腰部疼痛用什么口服止痛药好?	treatment --> drug therapy	
+658	乳癌ER和PR都是阴性,术后化疗后能不能用希罗达	treatment --> drug therapy	treatment --> drug therapy
+659	乳腺癌的必须要化疗吗？	treatment --> drug therapy	treatment --> drug therapy
+660	化疗都会出现恶心的症状吗？？	treatment --> drug therapy	treatment --> drug therapy
+661	老年人得肺癌不能化疗怎么办？？？	treatment --> drug therapy	treatment --> drug therapy
+662	化疗是什么意思	treatment --> drug therapy	treatment --> drug therapy
+663	直肠癌手术后做病理淋巴结有一个成阳性，必须得做化疗吗？~~	treatment --> drug therapy	treatment --> drug therapy
+664	有谁知道乳增宁片的正确服用方法吗?	treatment --> drug therapy	treatment --> drug therapy
+665	低分化导管乳腺癌没有手术服中草药后出现钙化斑点,后出现乳头溢血水现象是怎么回事?	treatment --> drug therapy	treatment --> drug therapy
+666	乳腺癌做完手术放化疗完后吃三苯氧铵得吃多长时间啊?	treatment --> drug therapy	treatment --> drug therapy
+667	急！化疗后会有什么反应？	treatment --> drug therapy	treatment --> drug therapy
+668	肝癌服用什么抗病毒药物好些？	treatment --> drug therapy	
+669	CA125正常了还化疗吗	treatment --> drug therapy	
+670	万分着急！！！乳腺癌转移到肺癌的 用肺癌化疗方案可不可行？	treatment --> drug therapy	
+671	我的姥姥得肺癌晚期了 转移到淋巴 骨转移 化疗能治疗么？痛苦么 （急）	treatment --> drug therapy	
+672	脑瘤病人如何服用蒂清	treatment --> drug therapy	
+673	请问有谁知道秘鲁产的抗癌药 ELOTI (erlotinib) 有效吗？在国外卖多少钱？	treatment --> drug therapy	
+674	什么药可以替代溴隐亭?或者什么其他方法能够治疗垂体瘤?	treatment --> drug therapy	
+675	君再生胶囊对于控制癌症有效吗	treatment --> drug therapy	
+676	急.我爸患胃癌要化疗,我想知道化疗是不是很伤身体?	treatment --> drug therapy	
+677	肝血管瘤吃药能不能治好？	treatment --> drug therapy	
+678	癌症病人化疗期间白细胞都会降低，为什么有的人白细胞不降低反而会升高呢？	treatment --> drug therapy	
+679	胃癌术后化疗后脚发麻反映怎么解决?	treatment --> drug therapy	
+680	癌转移到心脏和肾、膀胱，老人72岁体重89斤能做化疗吗?	treatment --> drug therapy	
+681	胆管癌合并肝硬化造成的全身水肿是否可以用药物进行治疗？感谢回答！	treatment --> drug therapy	
+682	宫颈癌化疗方案有那些?	treatment --> drug therapy	
+683	治疗肿瘤有什么新药？急啊	treatment --> drug therapy	
+684	化疗后能恢复到正常的状态吗？	treatment --> drug therapy	
+685	食道癌有什么药能治愈吗？	treatment --> drug therapy	
+686	无转移灶骨转移腺癌能做化疗吗 急！！	treatment --> drug therapy	
+687	如何药物减轻肝癌晚期的疼痛	treatment --> drug therapy	
+688	为什么做化疗一疗程有：4，6，9天呢？	treatment --> drug therapy	
+689	脑肿瘤晚期，吃草药能不能一线希望？///？急！	treatment --> drug therapy	
+690	食道癌中晚期手术后发现扩散,化疗前还需进行切片化验吗	treatment --> drug therapy	
+691	肾肿瘤切除者，干扰素需要用多久？	treatment --> drug therapy	
+692	肺腺癌骨 多发性转移，求个良药（有用过效果好的!!!)	treatment --> drug therapy	
+693	请问有什么药可以治肿瘤吗？	treatment --> drug therapy	
+694	侵润性导管癌化疗方案	treatment --> drug therapy	
+695	打化疗针牙疼是怎么回事	treatment --> drug therapy	
+696	肺癌的阴影打消炎药会不会轻	treatment --> drug therapy	
+697	乳腺癌放疗期间应该注意的问题是什么？	treatment --> drug therapy	
+698	英罗纳是哪个生产厂家？	treatment --> drug therapy	
+699	乳腺癌化疗后月经不尽怎么回事	treatment --> drug therapy	
+700	直肠癌中晚期患者术后多就可以化疗？	treatment --> drug therapy	
+701	乳腺癌一期不化疗，光吃药可以吗？	treatment --> drug therapy	
+702	有没有人知道治疗甲状腺肿瘤的特效药	treatment --> drug therapy	
+703	食道平散治疗食道癌的效果怎样？	treatment --> drug therapy	
+704	无限极的什么药对癌症治愈者有帮助？	treatment --> drug therapy	
+705	我是胃癌早期嘚！ 做化疗不到俩月胃吐血、这有没有大碍昂？	treatment --> drug therapy	
+706	胃癌中期但已经扩散了用进口的化疗治得好吗？	treatment --> drug therapy	
+707	母亲乳腺癌手术后化疗出现小疙瘩水泡腿脚轻度浮肿是怎么回事？？？应该如何解决？？谢谢	treatment --> drug therapy	
+708	请问艾克口服液可以治疗贲门癌吗？	treatment --> drug therapy	
+709	西罗达对胃低分化腺癌的疗效	treatment --> drug therapy	
+710	卵巢癌的化疗方案	treatment --> drug therapy	
+711	适用于乳腺癌的抗癌药品？？？？	treatment --> drug therapy	
+712	膀胱癌化疗后的出血问题	treatment --> drug therapy	
+713	乳腺癌放疗期间喉咙痛等一些问题 急！！！！！！！！！	treatment --> drug therapy	
+714	何为化疗?	treatment --> drug therapy	
+715	肝癌最晚期吃铁皮枫斗能治好吗	treatment --> drug therapy	
+716	鼻咽癌化疗后经常容易感冒还老呕吐是怎么回事	treatment --> drug therapy	
+717	化疗放疗后白细胞减少该如何处置？	treatment --> drug therapy	
+718	鼻咽癌化疗的副作用	treatment --> drug therapy	
+719	感冒清热冲剂 保质	treatment --> drug therapy	
+720	急求卵巢癌晚期特效药	treatment --> drug therapy	
+721	跪求 脑瘤术后食用参芎胶囊可以么？	treatment --> drug therapy	
+722	结肠癌肝转移手术后的化疗方案	treatment --> drug therapy	
+723	各位身边有什么好的中药对食道癌很好的，请介绍	treatment --> drug therapy	
+724	乳腺癌怀孕病人能用药会流吗	treatment --> drug therapy	
+725	妈妈得了胃癌 现在在吃中药 还可以吃西药吗	treatment --> drug therapy	
+726	放疗的人吃饭堵得慌是怎么回事啊？	treatment --> drug therapy	
+727	80岁的老人得了癌症还用化疗吗	treatment --> drug therapy	
+728	二级止痛药只能是癌症换着吃么	treatment --> drug therapy	
+729	以中药薏米为原料的抗癌注射液	treatment --> drug therapy	
+730	喷门癌已作手术一年先转移到淋巴上，需要做化疗吗？	treatment --> drug therapy	
+731	治疗癌症的易瑞沙哪里能买到	treatment --> drug therapy	
+732	甲状腺瘤切除后需吃药吗？	treatment --> drug therapy	
+733	我进期被查出患有畸胎瘤，右附件区见大小7.1＊5.0＊6.3cm囊实混合性团块边界清外行规则．能延期多久治疗？	treatment --> other	treatment --> other
+734	请教专家：粘液腺癌（低度恶性）能否治愈？	treatment --> other	
+735	晚期肺癌需不需要抽积水	treatment --> other	
+736	左侧锁骨上淋巴结转移性腺癌还能治吗	treatment --> other	
+737	鼻咽癌有治愈的可能吗？	treatment --> other	
+738	我姨妈得了乳腺癌术后不到1年复发能否治愈	treatment --> other	
+739	我弟弟得了恶性淋巴瘤——鼻咽癌能治愈吗？	treatment --> other	
+740	请问宫颈癌中期还能治好吗?	treatment --> other	
+741	妈妈患了蝶窦肿瘤 是恶性的 请问能治好么	treatment --> other	
+742	癌细胞向淋巴转移能根治吗	treatment --> other	
+743	barrett食管好治吗	treatment --> other	
+744	肿瘤医院是中西医结合治疗吗	treatment --> other	
+745	腹腔间皮瘤有内有治愈的可能？ 控制病情也可以啊	treatment --> other	
+746	淋巴瘤可以根治吗	treatment --> other	
+747	淋巴瘤能治好吗？好了以后对生活有什么影响？	treatment --> other	
+748	已经绝经的乳腺癌中期的患者能治愈吗	treatment --> other	
+749	结肠癌中期和糖尿病能否治好？	treatment --> other	
+750	胃癌晚期还能治愈吗？	treatment --> other	
+751	胰腺炎胃管需要插多长时间	treatment --> other	
+752	我妈妈得了宫颈癌，前几天去检查转移到了肝，请问治愈的希望有多大？	treatment --> other	
+753	胃癌晚期扩散到淋巴,腹膜还能治好不?	treatment --> other	
+754	甲状腺癌根除、淋巴清扫未发现转移，还需不需要后续治疗 ，	treatment --> other	
+755	什么是靶向治疗?	treatment --> other therapy	
+756	有谁知道日本中医治疗肿瘤的效果怎样？听说有位横南正典很好，是不是真的？	treatment --> other therapy	health provider choosing --> doctor
+757	伽马刀是放疗吗？它和化疗可以一起做吗	treatment --> other therapy	treatment --> other therapy
+758	华北有一台质子刀,这治疗肿瘤效果怎么样?是不是在长治第三人民医院呀?	treatment --> other therapy	treatment --> other therapy
+759	镭能治疗癌症吗	treatment --> other therapy	treatment --> other therapy
+760	九生堂蚁疗癌症的效果如何	treatment --> other therapy	treatment --> other therapy
+761	伽吗刀的技术成熟了吗？有疼痛感吗？	treatment --> other therapy	treatment --> other therapy
+762	请问中医对治疗舌癌的帮助有好大？	treatment --> other therapy	treatment --> other therapy
+763	什么是放疗，什么是化疗	treatment --> other therapy	treatment --> other therapy
+764	商丘乳腺癌治疗中心是秘方治疗乳腺癌吗	treatment --> other therapy	treatment --> other therapy
+765	癌症骨转移 可以用骨髓移植医治吗？	treatment --> other therapy	treatment --> other therapy
+766	想请问空军总医院的伽马刀和放疗效果怎么样？	treatment --> other therapy	
+767	肝癌晚期做介入好吗?	treatment --> other therapy	
+768	作骨髓移植的平均费用？	treatment --> other therapy	
+769	请问肿瘤放疗技术的英文怎么说？	treatment --> other therapy	
+770	大蒜油有治疗癌症的作用吗？用过的回答 谢	treatment --> other therapy	
+771	蟾蜍皮治疗肝癌	treatment --> other therapy	
+772	西洋参加虫草混合磨成粉可以治喉癌吗	treatment --> other therapy	
+773	肺癌做伽马刀后的反应	treatment --> other therapy	
+774	放疗是针对恶性肿瘤吗	treatment --> other therapy	
+775	太岁（肉团）能治疗癌症吗？什么样的太岁能有抗癌的功效？	treatment --> other therapy	
+776	脑瘤长在动脉上 用质子刀可以治疗么	treatment --> other therapy	
+777	X射线照射脑袋会有什么损伤？	treatment --> other therapy	
+778	肺癌晚期呼吸困难需不需要放支架	treatment --> other therapy	
+779	食道癌放疗过程中脖子上出现一个疙瘩	treatment --> other therapy	
+780	什么是放疗？过程恐怖吗？	treatment --> other therapy	
+781	乳腺癌晚期患者。放疗一次需要多少钱	treatment --> other therapy	
+782	恶性黑色素瘤的生物治疗方法有效吗？	treatment --> other therapy	
+783	得脑垂体瘤术后是否做放疗,多长时间为好	treatment --> other therapy	
+784	乳腺纤维瘤手术感染造成脂肪坏死如何医治？	treatment --> surgery	
+785	求助！我妈妈得了软组织恶性肿瘤（长在腿上）.切割够淋巴转移（跨部位置）各位进来看看给点意见	treatment --> surgery	
+786	十二指肠长肿瘤怎么治疗？如何手术？肿瘤位于胆管及胰管上方，胃的下方	treatment --> surgery	
+787	17岁的我得了纤维瘤需要动手术吗?	treatment --> surgery	
+788	切除良性脑肿瘤要多少钱...到医院挂什么科室？	treatment --> surgery	
+789	大腿外侧一菜花熘（皮肤癌）被切除后，下一步怎么办？	treatment --> surgery	
+790	神经纤维瘤，需要做手术吗？	treatment --> surgery	
+791	求知道人士指点做手术大概要多少费用呢？	treatment --> surgery	
+792	求助！直肠癌手术后腹涨	treatment --> surgery	treatment --> surgery
+793	肝癌可做手术吗	treatment --> surgery	treatment --> surgery
+794	胃癌术后盆腔腹腔发现积液,希望肿瘤医生指教谢谢了!	treatment --> surgery	treatment --> surgery
+795	脑动脉血管瘤术后注意事项	treatment --> surgery	treatment --> surgery
+796	腮腺混合瘤不想开刀，先随访行吗	treatment --> surgery	treatment --> surgery
+797	我母亲做结肠癌手术已经一年多了,现在身体很好,需要到医院检查吗?	treatment --> surgery	treatment --> surgery
+798	胃癌术后发生腹腔、淋巴转移怎么治疗	treatment --> surgery	treatment --> treatment seeking
+799	手上长个血管瘤有什么影响么，不做手术行么	treatment --> surgery	treatment --> surgery
+800	得了乳腺癌就只能割掉么,怎么样会导致得乳腺癌	treatment --> surgery	treatment --> surgery
+801	月经的时候可以做乳腺纤维瘤手术吗？	treatment --> surgery	treatment --> surgery
+802	甲状腺癌手术后出现钙化点,怎么办?	treatment --> surgery	treatment --> surgery
+803	做切除畸胎瘤手术要多少钱？？？？	treatment --> surgery	treatment --> surgery
+804	低度恶性潜能的子宫平滑肌肿瘤需要切除子宫吗？	treatment --> surgery	
+805	关于做胆管支架,是多大的手术?几天可以出院,做完支架是不是真的能止痒,手术费用大概是多少?望回复!急!跪谢	treatment --> surgery	
+806	肿瘤完全切除后为何还会复发？	treatment --> surgery	
+807	食管癌手术出院后出现39度左右的高烧	treatment --> surgery	
+808	患脑瘤后医院对病人切除1/4小脑正确么？没有危害么？	treatment --> surgery	
+809	几年前检查有卵巢囊肿6.7*6.3cm我现在想做手术我想问是开刀手术好还腹腔镜手术好	treatment --> surgery	
+810	前列腺肿瘤术后应该注意什么	treatment --> surgery	
+811	左声带高分化鳞状细胞癌手术后有新生肉芽	treatment --> surgery	
+812	我妈刚做了甲状腺瘤的切除手术，现在她两个胳膊一用力，刀口就疼，不知这是什么原因造成的？	treatment --> surgery	
+813	良性脑瘤病现在的手续费大概是好多，是否能治好，什么时候能变为恶性脑瘤呢	treatment --> surgery	
+814	肝上有1个恶性肿瘤又是肝癌中晚期，脾也肿大百分之70，有谁知道可以动手术不？	treatment --> surgery	
+815	肿瘤手术有危险吗？急！	treatment --> surgery	
+816	子宫内膜增厚 卵巢畸胎瘤 非要子宫和卵巢全拿掉么？	treatment --> surgery	
+817	后背长了脂肪瘤很大,手术需要30多分钟吗?	treatment --> surgery	
+818	关于甲状腺腺瘤手术以后伤口的护理	treatment --> surgery	
+819	急：子宫颈瘤患者，切除子宫后应该全方位注意什么？	treatment --> surgery	
+820	肝癌手术后如何保养！！	treatment --> surgery	
+821	请问乳腺纤维瘤开刀的话要做哪些准备?	treatment --> surgery	
+822	甲状腺腺瘤开刀前病者该注意些什么，如何做好准备	treatment --> surgery	
+823	甲状腺结节手术后是良性甲状腺腺肿，术后要不要吃优甲乐	treatment --> surgery	
+824	直肠癌癌细胞已扩散.手术后应注意的相关的内容	treatment --> surgery	
+825	亲属患有脑瘤急需手术，但费用较大无法全%	treatment --> surgery	
+826	早期胃癌采用腹腔镜手术好吗？请教！	treatment --> surgery	
+827	食道术后一直胸口痛“急”	treatment --> surgery	
+828	高龄脑垂体瘤能否进行鼻蝶肿瘤切除手术	treatment --> surgery	
+829	北京肿瘤医 手术需要送红包吗	treatment --> surgery	
+830	卵巢癌术后腹水	treatment --> surgery	
+831	请问鼻咽癌四期B可以开刀吗	treatment --> surgery	
+832	喷门癌晚期并且局部扩散到肝脏是否还适合做胃部全切除手术？ 如果不行的话是否可	treatment --> surgery	
+833	为什么做了乳腺纤维瘤手术更易复发	treatment --> surgery	
+834	我爸爸做直肠切除手术快一个月了，他现在大便很不正常，肛门很痛，一上厕所就上个没玩	treatment --> surgery	
+835	我父亲差出患了直肠癌，离肛门只有2公分多，肿瘤有接近2公分，请问可以做保肛手术吗？	treatment --> surgery	
+836	乳房纤维瘤手术后，又复发，并伴随疼痛，是什么情况？	treatment --> surgery	
+837	怎样知道自己的扁桃是完全切除 还是部分切除	treatment --> surgery	
+838	请问对于癌症病人手术及住院费用的报销？	treatment --> surgery	
+839	乳腺纤维瘤可不可以不去做手术！？	treatment --> surgery	
+840	有关胸腺瘤微创手术的问题	treatment --> surgery	
+841	今年年初做的心脏搭桥手术,现在发现膀胱癌,可以做电切吗,要是不能应该怎样治疗???	treatment --> surgery	
+842	我妈妈得了胰腺癌 于5月6号手术 术后不觉饿是怎么回事 有谁能够告诉我吗	treatment --> surgery	
+843	甲状腺功能减退者 患其他病能否开刀麻醉？	treatment --> surgery	
+844	癌性骨转移到髋关节可以截肢吗	treatment --> surgery	
+845	切除一个肿瘤要多少钱？	treatment --> surgery	
+846	脑血管瘤手术后需要注意什么？	treatment --> surgery	
+847	食道癌手术后不想吃饭怎么办	treatment --> surgery	
+848	胃癌手术时发先有盆腔扩散 当可见病变处都以切除 这样的情况怎么样	treatment --> surgery	
+849	我女友得了胃癌晚期,做胃切除可以好吗?	treatment --> surgery	
+850	胆囊癌怎样治疗啊？紧急求助！！！	treatment --> treatment seeking	
+851	恶性肿瘤怎样才算被彻底根治了？？？？？？！！！	treatment --> treatment seeking	
+852	鼻子里有块肉堵住鼻孔出不了气怎么办??	treatment --> treatment seeking	
+853	平滑肌肉瘤如何治疗	treatment --> treatment seeking	
+854	介入是不是比化疗的副作用小一些啊?	treatment --> treatment seeking	
+855	急求治血管瘤!	treatment --> treatment seeking	
+856	男，20岁，食道下端恶性肿瘤，已扩散到胸肺，求助	treatment --> treatment seeking	
+857	胸部里长肿瘤能医吗?	treatment --> treatment seeking	
+858	有没有人知道神经纤维瘤的治疗方法？	treatment --> treatment seeking	
+859	女儿头上长了一个血管瘤，该怎么办？	treatment --> treatment seeking	
+860	怎么才可以抗击癌症?	treatment --> treatment seeking	
+861	胃总是涨的，怎么办，注意什么？	treatment --> treatment seeking	
+862	问，三个月左右的直肠癌用什么治疗方案最好？	treatment --> treatment seeking	
+863	颈部淋巴早期恶性肿瘤治疗的最佳选择是什么?	treatment --> treatment seeking	
+864	晚期胃癌 有得治吗? 治了能全愈吗?	treatment --> treatment seeking	treatment --> treatment seeking
+865	癌症有方法治么?	treatment --> treatment seeking	treatment --> treatment seeking
+866	拜请指点癌症复发转移治疗	treatment --> treatment seeking	treatment --> treatment seeking
+867	我有个朋友直肠癌晚期，现在已经有一点扩展到肝上，现在该采取什么更有效的治疗方法啊，谢谢拜托大家！！	treatment --> treatment seeking	treatment --> treatment seeking
+868	我的奶奶患了胃癌晚期.现在该怎么办?~急	treatment --> treatment seeking	treatment --> treatment seeking
+869	输卵管肿瘤怎么治？	treatment --> treatment seeking	treatment --> treatment seeking
+870	6个月左右的小女孩在小便处得了血管瘤怎么治疗？	treatment --> treatment seeking	treatment --> treatment seeking
+871	求助！淋巴结转移性低分化鳞状细胞癌的治疗办法	treatment --> treatment seeking	treatment --> treatment seeking
+872	牙齿烂了 怎么办	treatment --> treatment seeking	treatment --> treatment seeking
+873	[原创]我很有可能得了胃癌，医生救救	treatment --> treatment seeking	treatment --> treatment seeking
+874	肝癌晚期加上肝硬化，医生说已经没有手术的必要，请问哪位有回天之术啊？求求大家了	treatment --> treatment seeking	treatment --> treatment seeking
+875	求救````如何得了肿瘤应该怎么治疗？？恶性肿瘤的话会不会死人？？	treatment --> treatment seeking	treatment --> treatment seeking
+876	甲状腺瘤除开刀手术外，还有什么其他方法？希望好心人帮帮忙，解答一下。感激不尽！！！	treatment --> treatment seeking	treatment --> treatment seeking
+877	癌症晚期（食管手术）多处转移，腹部剧痛！有没有回天之术？	treatment --> treatment seeking	treatment --> treatment seeking
+878	患有肝小血管瘤（良性）因该怎样医治？	treatment --> treatment seeking	treatment --> treatment seeking
+879	我右小腿的血管瘤经常会痛,该怎么办,有什么影响吗?	treatment --> treatment seeking	treatment --> treatment seeking
+880	腋下疼痛，两年前就这样了，请懂得的人帮我看一下该如何是好呢？	treatment --> treatment seeking	diagnosis --> what's the condition
+881	我耳朵外边长了一个血管瘤要怎么治疗呢	treatment --> treatment seeking	treatment --> treatment seeking
+882	胆囊癌转移到肝无法手术怎么样治疗能延长生命减少痛苦?	treatment --> treatment seeking	treatment --> treatment seeking
+883	我一位朋友得的乳腺癌``已在西安交大第一附属医院做完六次化疗`还要放疗和内分泌治疗吗?`中医治疗有效吗?`	treatment --> treatment seeking	treatment --> other therapy
+884	请教名医.喉部有一肿瘤	treatment --> treatment seeking	treatment --> treatment seeking
+885	胃癌术后转移到肺怎么治?	treatment --> treatment seeking	
+886	胃癌细胞转移到肝有什么方法治疗,?	treatment --> treatment seeking	
+887	疝气有什么办法治？	treatment --> treatment seeking	
+888	请问湘雅医院的医生们脑后的肿瘤很大要怎么医治????	treatment --> treatment seeking	
+889	急!!!子宫肌瘤晚期,患者53岁,体型偏胖,另还有3高症状,是动手术还是做化疗还是中药调理呢?	treatment --> treatment seeking	
+890	有什么土办法消除体内的毒素？	treatment --> treatment seeking	
+891	跪求，我父喷门癌中晚期！左锁骨处淋巴结转移！手术还是保守治疗为好？	treatment --> treatment seeking	
+892	乳腺癌发生肺转移怎么治疗比较好？	treatment --> treatment seeking	
+893	请专家答:直肠癌改道后又肠梗阻,如何治疗	treatment --> treatment seeking	
+894	腹水怎么办?	treatment --> treatment seeking	
+895	我妈妈鼻咽部低分化磷癌，放疗后血常规正常，之后化疗5天，至今有50天未进食，请问如何治疗？	treatment --> treatment seeking	
+896	骨癌有法治疗吗 急求专家	treatment --> treatment seeking	
+897	肝癌还有救吗 怎么办	treatment --> treatment seeking	
+898	妈妈得了食道癌, 该怎么办?	treatment --> treatment seeking	
+899	乳腺癌眼痛怎么办	treatment --> treatment seeking	
+900	我的奶奶得了肺癌，我想知道怎么能延长寿命。奶奶对我太好了，她还没看见我成家立业。请大家帮助我	treatment --> treatment seeking	
+901	胃癌转移到直肠癌，应该如何治疗，切除后有治愈的可能性吗？	treatment --> treatment seeking	
+902	寻麻疹有治吗?	treatment --> treatment seeking	
+903	我老公头部皮下有很多大的脂肪瘤该怎么办？	treatment --> treatment seeking	
+904	鼻子长了肿瘤怎么治疗	treatment --> treatment seeking	
+905	关于非霍奇金淋巴瘤性淋巴瘤的治疗方案	treatment --> treatment seeking	
+906	求助“多发性骨髓瘤”疗法	treatment --> treatment seeking	
+907	甲状腺乳头状癌未转移淋巴结是否还需要放化疗	treatment --> treatment seeking	
+908	喷门癌不化疗 吃中药行吗	treatment --> treatment seeking	
+909	现在胃癌有没有完全治愈办法	treatment --> treatment seeking	
+910	甲状腺癌乳头状腺癌转移了，该怎么办~~？？？	treatment --> treatment seeking	
+911	良性肿瘤怎么治	treatment --> treatment seeking	
+912	求非霍奇金恶性淋巴瘤的治疗方法？	treatment --> treatment seeking	
+913	得了胃癌晚期该怎么办？	treatment --> treatment seeking	
+914	有了恶性甲状腺肿瘤怎么办？能否治愈？	treatment --> treatment seeking	
+915	乳房纤维腺瘤，不手术，可以吗？	treatment --> treatment seeking	
+916	老人患甲状腺瘤，有二十年了，何种治疗较好	treatment --> treatment seeking	
+917	癌胚抗原稍高怎么办？	treatment --> treatment seeking	
+918	请问肝血管瘤该怎样治疗？乙肝两对半阴性会传染吗？	treatment --> treatment seeking	
+919	怀孕28周，发现右乳有瘤子，怎么办啊？	treatment --> treatment seeking	
+920	软组织肉瘤的最佳治疗方法	treatment --> treatment seeking	
+921	耳垂里长了个绿豆大小的疙瘩!怎么办?有没危险?快帮帮我啊!!	treatment --> treatment seeking	
+922	我姥姥70多脚肿痛什么原因，有什么缓解办法	treatment --> treatment seeking	
+923	我父亲今年54岁,经检查患有肺癌,经常出现头痛该怎么办用什么方法医治好?	treatment --> treatment seeking	
+924	帮忙分析一下结肠癌病理，患者69岁男性，如何治疗，能存活几年？	treatment --> treatment seeking	
+925	肝癌细胞转移到肺部了是不是很严重了？该如何治疗？	treatment --> treatment seeking	
+926	食道癌的术后治疗	treatment --> treatment seeking	
+927	我爸癌症晚期，现在下身瘫痪并有 腹胀请问好心人有什么办法解决吗，他这样还能治吗？不能又有多长时间？	treatment --> treatment seeking	
+928	癌症病人有胸、腹水如何治疗？	treatment --> treatment seeking	
+929	胸苷激酶1(TK1)偏高怎么办?	treatment --> treatment seeking	
+930	乳头有肿了`怎么办？	treatment --> treatment seeking	
+931	晚期癌症病人高烧不退，打针吃药都没用，有什么好办法？	treatment --> treatment seeking	
+932	儿子现在一岁 脸上长了个皮下脂肪瘤，在肉里，有黄豆那么大，有人说不用管它自己会好，哪位知道该怎么办啊	treatment --> treatment seeking	
+933	结肠癌晚期真的没救了吗？	treatment --> treatment seeking	
+934	医生初步诊断我是脑垂体腺瘤。请专家帮帮我该怎么办?	treatment --> treatment seeking	
+935	面颊部长瘤怎么办？	treatment --> treatment seeking	
+936	我妈妈四年前做的食道癌手术，最近一次复查，说是心脏积液， 这个病怎么治疗有效啊？？？	treatment --> treatment seeking	
+937	脂肪瘤有什么可以根治的办法？	treatment --> treatment seeking	
+938	我外公前列腺癌症转移至骨头，怎么办啊	treatment --> treatment seeking	
+939	低分化转移性淋巴癌在做了化疗与放疗的治疗后，如果现在选择做伽马刀可以吗？	treatment --> treatment seeking	
+940	胆摘除后胆总管堵塞怎么办	treatment --> treatment seeking	
+941	如何解决卵巢癌晚期呕吐问题	treatment --> treatment seeking	
+942	高位胆管癌晚期如何治疗	treatment --> treatment seeking	
+943	垂体微腺瘤用什么方法冶疗比较好，而且不会复发	treatment --> treatment seeking	
+944	老婆3年前做得甲瘤手术，现在发现右边又出现了个肿块，请医生留步？	treatment --> treatment seeking	
+945	我妈食道癌手术后需要化疗吗？	treatment --> treatment seeking	
+946	母亲得了晚期肺癌!谁能救救母亲？来帮帮我	treatment --> treatment seeking	
+947	纤维瘤怎么治啊··	treatment --> treatment seeking	
+948	乳腺癌肝转移肺转移有救吗？	treatment --> treatment seeking	
+949	甲状腺恶性肿瘤开刀好还是用碘131放射性治疗好	treatment --> treatment seeking	
+950	我姥爷直肠癌中晚期手术后,在化疗第三次开始出现手肿,一个多月也没有好转! 怎么办! 急! 谢谢!	treatment --> treatment seeking	
+951	胃溃疡型胃癌如何治疗?如何收敛伤口?	treatment --> treatment seeking	
+952	晚期肺癌，怎样能减轻呼吸困难，浑身疼的痛苦.请大家帮帮忙！有什么好的方法能减轻她的痛苦！	treatment --> treatment seeking	
+953	胃疼应该怎么办	treatment --> treatment seeking	
+954	大腿根部有肿块~求救啊	treatment --> treatment seeking	
+955	最近感觉腹部有个硬块，喘气有点困难，有恶心症状，该怎么办？？	treatment --> treatment seeking	
+956	肝血管瘤的最佳治疗方法？	treatment --> treatment seeking	
+957	我今年才18岁可我感觉阴囊及腿跟部有潮湿的感觉请问我该怎么半？？	treatment --> treatment seeking	
+958	肾里有个腺体瘤，如何治疗，用手术吗？	treatment --> treatment seeking	
+959	做火检发现局部有炎症，还不是胃癌的胃病怎么治疗，可以做手术吗 ？	treatment --> treatment seeking	
+960	化疗和放疗对膀胱癌晚期患者有没有用？	treatment --> treatment seeking	
+961	胃癌全切除手术后，CEA检测是5.6ng/nl,后期要怎样治疗。	treatment --> treatment seeking	
+962	食道癌的治疗方法	treatment --> treatment seeking	
+963	食道癌术后治疗	treatment --> treatment seeking	
+964	跪求名医救死扶伤 老爸的病情帮忙看看 甲状腺腺瘤及心脏主动脉及二尖瓣关闭不全 急~~~~~~	treatment --> treatment seeking	
+965	肝癌晚期病人做了介入后白细胞很低怎么办？	treatment --> treatment seeking	
+966	盆腔积液和不除外囊性畸胎瘤，该如何制订治疗方案？跪谢	treatment --> treatment seeking	
+967	结肠癌患者的痛苦 如何治疗 有何症状	treatment --> treatment seeking	
+968	肝癌如果转移到骨髓了，还有什么治疗的方案可行？	treatment --> treatment seeking	
+969	癌症食疗还是药物治疗？	treatment --> treatment seeking	
+970	甲状腺瘤的治疗	treatment --> treatment seeking	
+971	怎样治疗血管瘤比较好呢	treatment --> treatment seeking	
+972	治疗癌症的偏方？	treatment --> treatment seeking	
+973	我的父亲得了食管癌,那位好心的人来帮助我救救我爸爸吧...	treatment --> treatment seeking	
+974	如何减轻宫颈癌晚期病人的痛苦	treatment --> treatment seeking	
+975	脉管炎如何自治	treatment --> treatment seeking	
+976	乳痛怎么办啊，我是男的。	treatment --> treatment seeking	
+977	能否告诉我转移性骨癌的中医治疗方法？	treatment --> treatment seeking	
+978	食管癌吻合口复发怎么办	treatment --> treatment seeking	
+979	晚期胃癌患者求“仙方”？	treatment --> treatment seeking	
+980	乳腺浸润性导管癌转移到腰椎怎么办？急急急	treatment --> treatment seeking	
+981	有谁有治疗恶性肿瘤的偏方？求大家拉	treatment --> treatment seeking	
+982	我有食道多发性静脉瘤，怎样治疗比较好？能开刀吗?	treatment --> treatment seeking	
+983	食管癌 转移 肝脏 最佳治疗方法是什么，急····	treatment --> treatment seeking	
+984	贲门癌晚期骨转移，怎么止痛？？救救我的爸爸啊！！	treatment --> treatment seeking	
+985	我的耳垂上长了个小粉瘤 怎么办？	treatment --> treatment seeking	
+986	右下腹淋巴结肿大请问如何诊治？？？？	treatment --> treatment seeking	
+987	胶质瘤术后抽搐频繁 该怎么治疗 恢复？	treatment --> treatment seeking	
+988	平坦型低分化腺癌(以印戒细胞癌成分为主）的治疗	treatment --> treatment seeking	
+989	肺鳞癌手术好还是化疗好	treatment --> treatment seeking	
+990	是否是癌症扩散 怎么治疗	treatment --> treatment seeking	
+991	胃疼怎么办？	treatment --> treatment seeking	
+992	由脑瘤转移到脊髓肿瘤后的最佳治疗方案	treatment --> treatment seeking	
+993	我老爸得了肺癌,现在是转移到腰椎间盘.哪位有什么药可以治疗,现在医生说不能动手术,做化疗了没有什么意义!	treatment --> treatment seeking	
+994	胸膜间皮瘤的治疗	treatment --> treatment seeking	
+995	我妈皮肌炎加鼻咽癌加食管返流，怎么治啊，56岁，皮肌炎5年，鼻咽癌中后期，查出3年，食管返流2年。	treatment --> treatment seeking	
+996	胃底糜烂怎么办	treatment --> treatment seeking	
+997	卵巢畸胎瘤腹部隐隐约约疼怎么办	treatment --> treatment seeking	
+998	爸爸肺癌晚期，年龄53，该怎么办？	treatment --> treatment seeking	
+999	父亲诊断出了癌症，并且已经扩散，有什么办法可以延长寿命？	treatment --> treatment seeking	
+1000	乳腺癌复发了怎么办?还能活多久?	treatment --> treatment seeking	
+1001	食道癌怎么办?	treatment --> treatment seeking	
+1002	有什么好的方法能治疗癌症晚期？	treatment --> treatment seeking	
+1003	肿瘤引起的发烧怎么办？	treatment --> treatment seeking	
+1004	准备要宝宝的女性乳腺纤维瘤的最佳治愈方案	treatment --> treatment seeking	
+1005	肠易激综合症有什么好的方法？	treatment --> treatment seeking	
+1006	乳腺肿瘤切除之后两年时间不到再次复发该怎么办？	treatment --> treatment seeking	
+1007	恶性黑色素瘤，不能做手术，化疗又不敏感，打算用中药调理，期间打白介素和抗干扰素，行吗？	treatment --> treatment seeking
